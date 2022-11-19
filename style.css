@@ -12,7 +12,7 @@ canvas[resize] {
 }
 
 #canvas {
-	color: #ffffff;
-	background-image: url('images/wooden_smaller.jpg');
+	background-color: #8686f7;
+	/* background-image: url('images/water_surface_02.jpg'); */
 	background-repeat: repeat;
 }
